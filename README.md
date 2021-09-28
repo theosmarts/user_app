@@ -1,6 +1,6 @@
 # users_app
 
-A test Flutter project.
+A Flutter application that fetches users from an API and displays them on the home screen.
 
 ## Getting Started
 
